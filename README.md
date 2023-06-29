@@ -1,5 +1,11 @@
 # Repository contents
-This repository contains the data and scripts corresponding to Brushett et al. (2022).
+This repository contains the data and scripts corresponding to Brushett et al. (2023).
+
+Journal: Movement Ecology.
+
+DOI : 10.1186/s40462-023-00404-2.
+
+Title : Changes in movement, habitat use, and response to human disturbance accompany parturition events in bighorn sheep (Ovis canadensis).
 
 **Scripts:**
 
