@@ -1,0 +1,23 @@
+variables,variable_full
+aspect,Aspect
+aspecte,Aspect E
+aspectn,Aspect N
+aspects,Aspect S
+aspectw,Aspect W
+dbarren,Dist. to barren ground
+descp,Dist. to escape terrain
+dforest,Dist. to forest
+dgrassforb,Dist. to herbaceous
+dgrassforbshrub,Dist. to meadow
+droad,Dist. to road
+dtrail,Dist. to trail
+dwater,Dist. to water
+elevation,Elevation
+heatload,Heat load
+ndvi,NDVI
+ndvi2020,NDVI
+ndvi2021,NDVI
+percentcrown,Crown cover
+slope,Slope
+snowdepth,Snow depth
+vrm,Ruggedness
