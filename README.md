@@ -1,4 +1,4 @@
-# bighorn-sheep-lambing
+# Repository contents
 This repository contains the data and scripts corresponding to Brushett et al. (2022).
 
 File 1. Script for fitting and visualizing hidden Markov models.
