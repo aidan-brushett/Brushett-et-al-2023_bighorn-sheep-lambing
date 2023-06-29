@@ -9,9 +9,9 @@ Title : Changes in movement, habitat use, and response to human disturbance acco
 
 **Scripts:**
 
-_Script 2_. Script for fitting and visualizing hidden Markov models.
+_Script 1_. Script for fitting and visualizing hidden Markov models.
 
-_Script 3._ Script for fitting and visualizing latent selection difference and resource selection functions.
+_Script 2._ Script for fitting and visualizing latent selection difference and resource selection functions.
 
 **Data:**
 
