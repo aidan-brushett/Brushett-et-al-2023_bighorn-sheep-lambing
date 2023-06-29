@@ -1,6 +1,18 @@
 # Repository contents
 This repository contains the data and scripts corresponding to Brushett et al. (2022).
 
-File 1. Script for fitting and visualizing hidden Markov models.
+**Scripts:**
 
-File 2. Script for fitting and visualizing latent selection difference and resource selection functions.
+_Script 2_. Script for fitting and visualizing hidden Markov models.
+
+_Script 3._ Script for fitting and visualizing latent selection difference and resource selection functions.
+
+**Data:**
+
+_BHS-female_inferred-parturition-sites.csv:_ used to se the 'breakpoint' for partitioning LSD data. 
+
+_validated-parturient-sheep.csv:_ reproductive information for sheep that did lamb
+
+_validated-nonparturient-sheep.csv:_ reproductive information for sheep that did not lamb
+
+**_Full dataset:_** rasters and GPS collar data are available at https://drive.google.com/drive/folders/13xHLmI69ztr9NhsLMF7ml-L7KxcrmvHN?usp=sharing
